@@ -5,7 +5,7 @@ The following are the steps used to excute various parts of the assignment.
 [Report URL](http://webpages.uncc.edu/nmatta1/cloudproject/report.html)
 
 
-# ############# PART 1: ITEM-ITEM #############
+#  PART 1: ITEM-ITEM 
 We executed this part in DSBA cluster.
 
 	STEP 1:
@@ -19,7 +19,7 @@ We executed this part in DSBA cluster.
 	The output file is generated in the output folder in the dsba location.
 	This file is copied on to the local device.
 
-# ############# PART 2: USER-USER #############
+#  PART 2: USER-USER 
 We executed this part in DSBA cluster.
 
 	STEP 1:
@@ -33,7 +33,7 @@ We executed this part in DSBA cluster.
 	The output file is generated in the output folder in the dsba location.
 	This file is copied on to the local device.
 
-# ############# PART 3: ALS #############
+#  PART 3: ALS 
 We executed the ALS part in Amazon Web Services.
 
 	STEP 1:
