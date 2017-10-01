@@ -1,8 +1,11 @@
+
 # Book-Recommender
 
 The following are the steps used to excute various parts of the assignment.
 
 [Project Report URL](http://webpages.uncc.edu/nmatta1/cloudproject/report.html)
+
+![Sneak Peak](https://github.com/Aditya-Viswanadha/Book-Recommender/blob/master/Cloud.png)
 
 
 #  PART 1: ITEM-ITEM 
